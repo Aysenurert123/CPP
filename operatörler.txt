@@ -1,0 +1,12 @@
+operatörler
+-------------------------
+
+= Atama
++-*/ Aritmetik iþlem operatörleri
+== sorgulama(eþit mi)
+<= küçük eþit
+>=büyük eþit
+!= eþit deðilse
+&& ve
+|| veya
+%mod(kalan)
